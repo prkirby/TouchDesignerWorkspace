@@ -1,0 +1,20 @@
+# TouchDesigner backup files
+Backup/
+*.toe.~*
+
+# Numbered backup versions (auto-saved by TouchDesigner)
+*.[0-9]*.toe
+
+# Lock files
+*.lck
+
+# Crash recovery
+crash.toe
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
